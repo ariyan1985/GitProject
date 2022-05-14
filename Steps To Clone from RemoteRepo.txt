@@ -1,0 +1,23 @@
+Steps to clone files to your computer from Remote Repo.
+
+1.Create a folder in a place of your choice like (Desktop).
+
+2.Open gitBash
+
+3.Navigate to the location of that folder through gitbash.
+
+4.Open your github Remote Repo
+
+5.Go to the Remote Repo of your choice that you want to copy files from
+
+6.Click on the green button (Code).
+
+7.Click on the copy HTTPS link.
+
+8.Go back to your gitbash window
+
+9.Type (git clone) and paste the copied URL after (git clone) and hit ENTER.
+
+10.Then it will start cloning all the files from that specific Remote Repo into the folder of your choice.
+
+

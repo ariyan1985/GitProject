@@ -1,0 +1,47 @@
+HomeWork
+
+push your javaBasicProject on github
+
+you have a project of javaBasics which you have to push on github.
+the procedure is same as we did multiple times in class by creating new projects.
+
+here are the steps that u guys need to follow:
+1.decide the location of your repo
+Hint:you will right click on the javaBasics project , get its location and 
+navigate your terminal to that location
+please use pwd to make sure u are in the right location
+PLEASE MAKE SURE TO CREATE REPO IN THE CORRECT LOCATION.i.e inside javaBatch12 folder
+
+2.intialzie the repo
+
+3.Track all files by adding them to the staging area
+Hint: you have to add all the files so use git add .
+
+4. Make commit of all files in your local repo 
+hint:
+use git log to check the commit is there
+
+ 
+5.goto github and create a new repo with name javaBasics
+Hint:
+we discussed in class that for each local we must a separate remote
+
+-----------Establishing a connection--------------
+6.on your terminal establish the connection with remote repo
+Hint:
+git remote add origin url--> make sure you enter the correct url
+git remote -v to check if connection has been established
+
+7. git branch -M main 
+
+-------------The connection of your local repo is established with remote-----
+
+8. push everything to remote (sync local with remote)
+HINT:u will use command 
+git push -u origin main
+u dont need to authenticate urself or genreate anytoken as it is only one time process
+refresh ur page on github it will show all your files of javaBasic
+
+
+
+SHARE THE SCREENSHOT OF GITHUB IN THE CHANNEL
